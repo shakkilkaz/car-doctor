@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "635a0c0b64a6d231228942ae",
+        "image": "https://i.imgur.com/cNnE0Yo.png",
+        "rating": 5,
+        "title": "Engine Oil Change",
+        "price": 20.00
+    },
+    {
+        "_id": "635a0c0b64a6d231228942af",
+        "image": "https://i.imgur.com/r3urOvW.png",
+        "rating": 4,
+        "title": "Battery Charge",
+        "price": 20.00
+    },
+    {
+        "_id": "635b591a1dafe382a9da8c96",
+        "image": "https://i.imgur.com/2KDGQ1c.png",
+        "rating": 3,
+        "title": "Full car Repair",
+        "price": 200.00
+    },
+    {
+        "_id": "635b5afc1dafe382a9da8c98",
+        "image": "https://i.imgur.com/pQ78LXL.png",
+        "rating": 4,
+        "title": "Engine Repair",
+        "price": 150.00
+    },
+    {
+        "_id": "635b5b691dafe382a9da8c99",
+        "image": "https://i.imgur.com/RgG54kA.png",
+        "rating": 5,
+        "title": "Automatic Services",
+        "price": 30.00
+    },
+    {
+        "_id": "635b5ba51dafe382a9da8c9a",
+        "image": "https://i.imgur.com/ku1eosg.png",
+        "rating": 4,
+        "title": "Electrical System",
+        "price": 20.00
+    }
+]
